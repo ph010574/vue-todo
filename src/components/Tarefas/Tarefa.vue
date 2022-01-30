@@ -33,11 +33,8 @@
       methods:{
         handleRemoveTarefa(id){
           this.$store.commit('removeTarefa',id)
-
         }
-
       }
-  
   }
   </script>
   
